@@ -360,6 +360,10 @@ a {
 	width: 100%
 }
 
+.bp-interest-margin {
+	margin-bottom: 18px;
+}
+
 .bp-col.s1 {
 	width: 8.33333%
 }
@@ -435,6 +439,10 @@ a {
 
 	.cv-social-container {
 		margin-top: 80px;
+	}
+
+	.bp-interest-margin {
+		margin-bottom: 0;
 	}
 }
 
